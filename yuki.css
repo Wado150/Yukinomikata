@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* ここから追記 */
+/* ボディー */
+body {
+font-size: 18px;
+font-family: "Arial", "メイリオ";
+}
+/* ヘッダー */
+.header {
+background:#CFFFA2;
+text-align: center;
+padding: 100px 5px;
+}
+/*サブタイトル*/
+.sub{
+  font-size:20px;
+}
+.main {
+  text-align: center;
+padding: 100px 5px;
+}
